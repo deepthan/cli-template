@@ -1,0 +1,4 @@
+# cli-template
+template
+
+{{ supportMacawAdmin }}
